@@ -1,0 +1,10 @@
+rs\hooloovoo\test\entities\User.class
+rs\hooloovoo\test\repository\AuditLogRepository.class
+rs\hooloovoo\test\utils\UtilityMethods$UserComponents.class
+rs\hooloovoo\test\TestConfig.class
+rs\hooloovoo\test\utils\UtilityMethods$ActionComponents.class
+rs\hooloovoo\test\utils\UtilityMethods.class
+rs\hooloovoo\test\entities\AuditLogEntry.class
+rs\hooloovoo\test\configuration\DbConfiguration.class
+rs\hooloovoo\test\configuration\EnvironmentConfig.class
+rs\hooloovoo\test\repository\UserRepository.class

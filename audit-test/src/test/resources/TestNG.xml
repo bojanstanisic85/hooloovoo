@@ -1,0 +1,11 @@
+<suite name="Test-class Suite" parallel="classes" thread-count="4">
+    <test name="Test-class test">
+        <classes>
+            <class name="rs.hooloovoo.test.AddUserActions"/>
+            <class name="rs.hooloovoo.test.GetUser"/>
+            <class name="rs.hooloovoo.test.GetUserActions"/>
+            <class name="rs.hooloovoo.test.RegisterUser"/>
+            <class name="rs.hooloovoo.test.UserLogin"/>
+        </classes>
+    </test>
+</suite>

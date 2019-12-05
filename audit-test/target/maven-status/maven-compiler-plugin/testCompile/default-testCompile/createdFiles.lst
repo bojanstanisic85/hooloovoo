@@ -1,0 +1,12 @@
+rs\hooloovoo\test\GetUserActions.class
+rs\hooloovoo\test\parameters\RegisterUserDataProvider.class
+rs\hooloovoo\test\parameters\UserLoginDataProvider.class
+rs\hooloovoo\test\parameters\GetUserDataProvider.class
+rs\hooloovoo\test\parameters\AddUserActionsDataProvider.class
+rs\hooloovoo\test\UsersTest.class
+rs\hooloovoo\test\BaseClass.class
+rs\hooloovoo\test\parameters\GetUserActionsDataProvider.class
+rs\hooloovoo\test\AddUserActions.class
+rs\hooloovoo\test\UserLogin.class
+rs\hooloovoo\test\GetUser.class
+rs\hooloovoo\test\RegisterUser.class

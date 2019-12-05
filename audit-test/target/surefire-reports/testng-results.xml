@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-05T05:31:34 CET" name="Surefire suite" finished-at="2019-12-05T05:31:35 CET" duration-ms="128">
+    <groups>
+    </groups>
+    <test started-at="2019-12-05T05:31:34 CET" name="Surefire test" finished-at="2019-12-05T05:31:35 CET" duration-ms="128">
+      <class name="rs.hooloovoo.test.UsersTest">
+        <test-method signature="testUsers() throws java.sql.SQLException" started-at="2019-12-05T05:31:34 CET" name="testUsers" finished-at="2019-12-05T05:31:35 CET" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsers -->
+      </class> <!-- rs.hooloovoo.test.UsersTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
