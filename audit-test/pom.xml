@@ -18,7 +18,7 @@
     <properties>
         <java.version>11</java.version>
         <cucumber.version>1.2.5</cucumber.version>
-        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <jaxb.version>2.3.1</jaxb.version>
     </properties>
 
